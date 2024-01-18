@@ -1,6 +1,6 @@
 # jpa02-sophiattran
 
-Repo: https://ucsb-cs156-w24/jpa02-sophiattran
+Repo: [https://ucsb-cs156-w24/jpa02-sophiattran](https://ucsb-cs156-w24/jpa02-sophiattran)
 
 * TODO: Correct the "deployed at" link to app on Dokku
   then delete this TODO.  Replace it with 
